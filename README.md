@@ -1,9 +1,10 @@
 <h1 align="left">Hello 👋, 我是 Reed Lin</h1>
+
 ```C
 #include <stdio.h>
 int main()
 {
- printf( "Hello World\n" );
+  printf("Hello World!"\n); 
 }
 ```
  
