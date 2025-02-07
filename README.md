@@ -1,8 +1,12 @@
 <h1 align="left">Hello 👋, 我是 Reed Lin</h1>
 ```C
 #include <stdio.h>
- printf("hello world");
+int main()
+{
+ printf( "Hello World\n" );
+}
 ```
+ 
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">網頁開發:</h4>  <p align="left"> 
