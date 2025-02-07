@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, 我是 Reed Lin</h1>
+<h1 align="left">Hello 👋, I'm reedlin2002 </h1>
 
 ```C
 #include <stdio.h>
