@@ -14,9 +14,10 @@ int main()
 ✅ | 🉑 
 --- | --- 
 **了解並寫出** | **寫出但不清楚**
+- Day 1:🉑  1.Two Sum(GPT)  <br>
+- Day 2:🉑  9. Palindrome Number(GPT)  <br>
+- Day 3:✅  13. Roman to Integer(GPT)  <br>
 
-* ✅ 13. Roman to Integer(GPT)   <br>
-* 🉑 1.Two Sum(GPT) , 9. Palindrome Number(GPT)  <br>
 
 
 <h3 align="left">skills 👍</h3>
