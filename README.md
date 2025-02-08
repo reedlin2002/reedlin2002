@@ -10,7 +10,7 @@ int main()
 
 📖  Current Learning Focus
 ======
-從2025/2/6開始  試試寫LeetCode _(Python)_ 目標每1~3天能寫出1題 Easy
+自2025/2/6開始，挑戰 LeetCode _(Python)_，目標是每1~3天完成一題 Easy 題目。
 ✅ | 🉑 
 --- | --- 
 **了解並寫出** | **寫出但不清楚**
