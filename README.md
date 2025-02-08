@@ -10,7 +10,7 @@ int main()
 
 Recently, I have focused on
 ======
-2025/2/6  試試寫LeetCode _(Python)_ 目標1~3天能寫出1題 Easy
+從2025/2/6開始  試試寫LeetCode _(Python)_ 目標每1~3天能寫出1題 Easy
 ✅ | 🉑 
 --- | --- 
 **了解並寫出** | **寫出但不清楚**
