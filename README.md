@@ -10,13 +10,14 @@ int main()
 
 Recently, I have focused on
 ======
-試試寫LeetCode _(Python)_ 目標1~3天能寫出1題 Easy    **✅：了解並寫出  🉑：寫出但不清楚 <br>**
-✅ 13. Roman to Integer   <br>
-🉑 1.Two Sum , 9. Palindrome Number  <br>
-
+試試寫LeetCode _(Python)_ 目標1~3天能寫出1題 Easy
 ✅ | 🉑 
 --- | --- 
 **了解並寫出** | **寫出但不清楚**
+
+✅ 13. Roman to Integer   <br>
+🉑 1.Two Sum , 9. Palindrome Number  <br>
+
 
 <h3 align="left">skills 👍</h3>
 
