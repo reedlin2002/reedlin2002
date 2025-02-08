@@ -8,8 +8,13 @@ int main()
 }
 ```
 
-最近在試試寫LeetCode,目標1~3天能寫出1題 Easy  🎶
+Recently, I have focused on
 ======
+試試寫LeetCode (Python),目標1~3天能寫出1題 Easy  ✅：了解並寫出  🈯：寫出但不清楚
+✅ 13. Roman to Integer
+🈯 1.Two Sum , 9. Palindrome Number
+
+
 <h3 align="left">skills 👍</h3>
 
 <table align="center">
