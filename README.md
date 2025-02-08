@@ -7,7 +7,7 @@ int main()
   printf( "Hello World\n" ); 
 }
 ```
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">skills 👍</h3>
 
 <table align="center">
   <tr>
@@ -15,8 +15,9 @@ int main()
       <strong style="font-size: 20px;">程式語言</strong>
       <p> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+         <!-- 這是一個註解，GitHub 頁面不會顯示 -->
+        <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> -->
+        <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> -->
       </p>
     </td>
     <td align="center">
@@ -31,7 +32,7 @@ int main()
       <p> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+        <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> -->
       </p>
     </td>
     <td align="center">
