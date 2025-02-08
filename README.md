@@ -14,6 +14,10 @@ Recently, I have focused on
 ✅ 13. Roman to Integer   <br>
 🉑 1.Two Sum , 9. Palindrome Number  <br>
 
+✅ | 🉑 
+--- | --- 
+13. Roman to Integer | 1.Two Sum
+ | 9. Palindrome Number
 
 <h3 align="left">skills 👍</h3>
 
