@@ -16,8 +16,7 @@ Recently, I have focused on
 
 ✅ | 🉑 
 --- | --- 
-13. Roman to Integer | 1.Two Sum
- | 9. Palindrome Number
+**了解並寫出** | **寫出但不清楚**
 
 <h3 align="left">skills 👍</h3>
 
