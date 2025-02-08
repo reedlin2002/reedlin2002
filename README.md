@@ -8,7 +8,7 @@ int main()
 }
 ```
 
-<strong style="font-size: 40px;" alien="center">Languages and Tools</strong> <span style="font-size: 14px;"> (會使用的一些小工具)</span>
+<strong style="font-size: 40px; text-align: center;"> Languages and Tools</strong> <span style="font-size: 14px; text-align: center; display: block;"> (會使用的一些小工具)</span>
 
 <table align="center">
   <tr>
