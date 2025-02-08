@@ -8,7 +8,8 @@ int main()
 }
 ```
 
-##  最近在試試寫LeetCode,目標1~3天能寫出1題 Easy  🎶
+最近在試試寫LeetCode,目標1~3天能寫出1題 Easy  🎶
+======
 <h3 align="left">skills 👍</h3>
 
 <table align="center">
