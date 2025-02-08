@@ -8,8 +8,7 @@ int main()
 }
 ```
 <p align="center">
-  <strong style="font-size: 40px;">Languages and Tools</strong><br>
-  <span style="font-size: 14px;">(會使用的一些小工具)</span>
+  <span style="font-size: 40px;">Languages and Tools</span>  <span style="font-size: 14px;"> (會使用的一些小工具)</span>
 </p>
 
 <table align="center">
