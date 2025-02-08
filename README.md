@@ -8,7 +8,7 @@ int main()
 }
 ```
 
-Recently, I have focused on
+✔ Challenges I’m Taking On
 ======
 從2025/2/6開始  試試寫LeetCode _(Python)_ 目標每1~3天能寫出1題 Easy
 ✅ | 🉑 
