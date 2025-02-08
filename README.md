@@ -7,9 +7,7 @@ int main()
   printf( "Hello World\n" ); 
 }
 ```
-<p align="center">
-  <span style="font-size: 40px;">Languages and Tools</span>  <span style="font-size: 14px;"> (會使用的一些小工具)</span>
-</p>
+<h3 align="left">Languages and Tools</h3>
 
 <table align="center">
   <tr>
