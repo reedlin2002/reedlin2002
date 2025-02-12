@@ -19,7 +19,7 @@ int main()
 - Day 3:✅  13. Roman to Integer(GPT)  <br>
 - Day 4:✅  1.Two Sum  <br>
 - Day 5:  休息一天 <br>
-- Day 6:✅  9. Palindrome Number <br> [::-1] <- Python 能用來順序相反
+- Day 6:✅  9. Palindrome Number [::-1] <- Python 能用來順序相反 <br> 
 
 
 
