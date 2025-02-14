@@ -21,6 +21,7 @@ int main()
 - Day 5:  休息一天 <br>
 - Day 6:✅  9. Palindrome Number  == **[::-1] <- Python 能用來順序相反** <br> 
 - Day 7:🉑  14. Long Common Prefix  == **startswith(prefix) <-檢查字串是否「以 prefix 開頭」**
+- Day 8:🉑  14. Long Common Prefix
 
 
 <h3 align="left">skills 👍</h3>
