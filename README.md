@@ -21,8 +21,8 @@ int main()
 - Day 5:  休息一天 <br>
 - Day 6:✅  9. Palindrome Number  == **[::-1] <- Python 能用來順序相反** <br> 
 - Day 7:🉑  14. Long Common Prefix  == **startswith(prefix) <-檢查字串是否「以 prefix 開頭」**
-- Day 8:🉑  14. Long Common Prefix  == **if not 某東西:    <-檢查該"某東西"是否為空 如果是就執行**
-- Day 9:🉑  14. Long Common Prefix  == **while not 某東西: <-檢查該"某東西"True/False 如果為False就執行**
+- Day 8:🉑  14. Long Common Prefix  == **if not 某東西:    <-檢查"某東西"是否為空 如果是就執行**
+- Day 9:🉑  14. Long Common Prefix  == **while not 某東西: <-檢查"某東西"為True/False 如果為False就執行**
 
 <h3 align="left">skills 👍</h3>
 
