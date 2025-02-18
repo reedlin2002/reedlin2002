@@ -8,7 +8,7 @@ int main()
 }
 ```
 
-📖  Current Learning Focus
+📖  Learning Focus
 ======
 自2025/2/6開始，挑戰 LeetCode _(Python)_，目標是每1~3天完成一題 Easy 題目。
 ✅ | 🉑 | 🚫
