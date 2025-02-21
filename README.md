@@ -25,6 +25,7 @@ int main()
 - Day 9:🉑  14. Long Common Prefix  == **while not 某東西: <-檢查"某東西"為True/False 如果為False就執行**
 - Day 10:✅  14. Long Common Prefix
 - Day 11:✅  14. Long Common Prefix (複習)
+- Day 12:🚫  20. Valid Parentheses
 
 <h3 align="left">skills 👍</h3>
 
