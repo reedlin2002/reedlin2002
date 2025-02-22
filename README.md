@@ -14,21 +14,23 @@ int main()
 ✅ | 🉑 | 🚫
 --- | --- | --- 
 **了解並寫出** | **寫出但不清楚** | **寫不出來**
-| Day  | 狀態 | 題號 | 題目 | 備註 |
-|------|------|------|------|------|
-| Day 1  | 🉑  | #1  | Two Sum | (GPT) |
-| Day 2  | 🉑  | #9  | Palindrome Number | (GPT) |
-| Day 3  | ✅  | #13 | Roman to Integer | (GPT) |
-| Day 4  | ✅  | #1  | Two Sum | |
-| Day 5  | ☕  | —  | **休息** | |
-| Day 6  | ✅  | #9  | Palindrome Number | `[::-1]` 反轉字串/列表 |
-| Day 7  | 🉑  | #14 | Longest Common Prefix | `startswith(prefix)` 檢查開頭 |
-| Day 8  | 🉑  | #14 | Longest Common Prefix | `if not X:` 檢查是否為空 |
-| Day 9  | 🉑  | #14 | Longest Common Prefix | `while not X:` 若 `False` 則執行 |
-| Day 10 | ✅  | #14 | Longest Common Prefix | |
-| Day 11 | ✅  | #14 | Longest Common Prefix | (複習) |
-| Day 12 | 🚫  | #20 | Valid Parentheses | |
-| Day 13 | 🚫  | #20 | Valid Parentheses | **理解 mapping:** `{")": "(", "]": "[", "}": "{"}` |
+- **D1** 🉑  #1 - Two Sum *(GPT)*
+- **D2** 🉑  #9 - Palindrome Number *(GPT)*
+- **D3** ✅  #13 - Roman to Integer *(GPT)*
+- **D4** ✅  #1 - Two Sum
+- **D5** ☕ **休息**
+- **D6** ✅  #9 - Palindrome  
+  - `[::-1]` 反轉字串
+- **D7** 🉑  #14 - LCP  
+  - `startswith(prefix)` 檢查開頭
+- **D8** 🉑  #14 - LCP  
+  - `if not X:` 檢查空值
+- **D9** 🉑  #14 - LCP  
+  - `while not X:` False 時執行
+- **D10** ✅  #14 - LCP
+- **D11** ✅  #14 - LCP *(複習)*
+- **D12** 🚫  #20 - 括號匹配
+- **D13** 🚫  #20 - mapping `{")": "(", "]": "[", "}": "{"}`
 
 
 <h3 align="left">skills 👍</h3>
