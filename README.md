@@ -14,24 +14,22 @@ int main()
 ✅ | 🉑 | 🚫
 --- | --- | --- 
 **了解並寫出** | **寫出但不清楚** | **寫不出來**
-- **Day 1**  🉑  #1 - Two Sum (GPT)  
-- **Day 2**  🉑  #9 - Palindrome Number (GPT)  
-- **Day 3**  ✅  #13 - Roman to Integer (GPT)  
-- **Day 4**  ✅  #1 - Two Sum  
-- **Day 5**  ☕ **休息一天**  
-- **Day 6**  ✅  #9 - Palindrome Number  
-  - **[::-1]** ← Python 能用來反轉字串/列表  
-- **Day 7**  🉑  #14 - Longest Common Prefix  
-  - **startswith(prefix)** ← 檢查字串是否「以 prefix 開頭」  
-- **Day 8**  🉑  #14 - Longest Common Prefix  
-  - **if not 某東西:** ← 檢查是否為空，為空則執行  
-- **Day 9**  🉑  #14 - Longest Common Prefix  
-  - **while not 某東西:** ← 若為 `False` 則執行迴圈  
-- **Day 10** ✅  #14 - Longest Common Prefix  
-- **Day 11** ✅  #14 - Longest Common Prefix (複習)  
-- **Day 12** 🚫  #20 - Valid Parentheses  
-- **Day 13** 🚫  #20 - Valid Parentheses  
-  - **理解 mapping:** `{ ")": "(", "]": "[", "}": "{" }`  
+| Day  | 狀態 | 題號 | 題目 | 備註 |
+|------|------|------|------|------|
+| Day 1  | 🉑  | #1  | Two Sum | (GPT) |
+| Day 2  | 🉑  | #9  | Palindrome Number | (GPT) |
+| Day 3  | ✅  | #13 | Roman to Integer | (GPT) |
+| Day 4  | ✅  | #1  | Two Sum | |
+| Day 5  | ☕  | —  | **休息** | |
+| Day 6  | ✅  | #9  | Palindrome Number | `[::-1]` 反轉字串/列表 |
+| Day 7  | 🉑  | #14 | Longest Common Prefix | `startswith(prefix)` 檢查開頭 |
+| Day 8  | 🉑  | #14 | Longest Common Prefix | `if not X:` 檢查是否為空 |
+| Day 9  | 🉑  | #14 | Longest Common Prefix | `while not X:` 若 `False` 則執行 |
+| Day 10 | ✅  | #14 | Longest Common Prefix | |
+| Day 11 | ✅  | #14 | Longest Common Prefix | (複習) |
+| Day 12 | 🚫  | #20 | Valid Parentheses | |
+| Day 13 | 🚫  | #20 | Valid Parentheses | **理解 mapping:** `{")": "(", "]": "[", "}": "{"}` |
+
 
 <h3 align="left">skills 👍</h3>
 
