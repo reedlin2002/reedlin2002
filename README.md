@@ -26,6 +26,7 @@ int main()
 - Day 10:✅  14. Long Common Prefix
 - Day 11:✅  14. Long Common Prefix (複習)
 - Day 12:🚫  20. Valid Parentheses
+- Day 13:🚫  20. Valid Parentheses  == **理解 mapping {  ")": "(" ,  "]": "[" ,  "}": "{"  }**
 
 <h3 align="left">skills 👍</h3>
 
