@@ -42,6 +42,10 @@ int main()
 - **D17** 🚫  #20 Valid Parentheses
   - `if i in mapping:` **<- 檢查 i 是否是右括號（`)`,`]`, `}`）**
   - `mapping[")"]`  **<- 會得到 (**
+- **D17** 🉑  #20 Valid Parentheses
+
+ 
+
 
 
 
