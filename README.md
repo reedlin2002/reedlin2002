@@ -28,7 +28,7 @@ int main()
 - **D8** 🉑  #14 Longest Common Prefix  
   - `if not 某東西:` **<- 檢查 "某東西" 是否為空，如果是就執行**
 - **D9** 🉑  #14 Longest Common Prefix  
-  - `while not 某東西:` **<- 檢查 "某東西" 為 True/False，如果為 False 就執行**
+  - `while not 某東西:` **<- 檢查 "某東西" 為 True/False，如果為 False 就執行** <br>
 [more 練習紀錄](https://reedlin2002.github.io/)
 
 
