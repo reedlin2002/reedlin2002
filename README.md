@@ -22,7 +22,8 @@ int main()
 
 [LeetCode 練習紀錄](https://reedlin2002.github.io/)
 
-<h3 align="left">skills 👍</h3>
+🛠️ Skills
+======
 
 <table align="center">
   <tr>
