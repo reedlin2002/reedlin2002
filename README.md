@@ -19,16 +19,6 @@ int main()
 - **D1** 🉑  #1  Two Sum *(GPT)*
 - **D2** 🉑  #9  Palindrome Number *(GPT)*
 - **D3** ✅  #13 Roman to Integer *(GPT)*
-- **D4** ✅  #1  Two Sum  
-- **D5** ☕ **休息**
-- **D6** ✅  #9  Palindrome  
-  - `[::-1]` **<- Python 能用來順序相反**
-- **D7** 🉑  #14 Longest Common Prefix  
-  - `startswith(prefix)` **<- 檢查字串是否「以 prefix 開頭」**
-- **D8** 🉑  #14 Longest Common Prefix  
-  - `if not 某東西:` **<- 檢查 "某東西" 是否為空，如果是就執行**
-- **D9** 🉑  #14 Longest Common Prefix  
-  - `while not 某東西:` **<- 檢查 "某東西" 為 True/False，如果為 False 就執行** <br>
 
 [LeetCode 練習紀錄](https://reedlin2002.github.io/)
 
