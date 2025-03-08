@@ -25,7 +25,7 @@ int main()
 🛠️ Skills
 ======
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <strong style="font-size: 20px;">程式語言</strong>
