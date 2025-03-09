@@ -20,7 +20,7 @@ int main()
 - **D2** 🉑  #9  Palindrome Number *(GPT)*
 - **D3** ✅  #13 Roman to Integer *(GPT)*
 
-[LeetCode 練習紀錄](https://reedlin2002.github.io/leetcode-content.html) |
+[LeetCode 練習紀錄](https://reedlin2002.github.io/leetcode-content.html)  2025/3/5 更新  |
 <br>[Reedlin2002.github.io](https://reedlin2002.github.io/) 2025/3/9 更新  |
 
 🛠️ Skills
