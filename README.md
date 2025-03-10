@@ -8,17 +8,6 @@ int main()
 }
 ```
 
-📖  Learning Focus
-======
-自2025/2/6開始，挑戰 LeetCode _(Python)_，目標是每1~3天完成一題 Easy 題目。
-✅ | 🉑 | 🚫
---- | --- | --- 
-**了解並寫出** | **寫出但不清楚** | **寫不出來**
-
-📌 **LeetCode 記錄**
-- **D1** 🉑  #1  Two Sum *(GPT)*
-- **D2** 🉑  #9  Palindrome Number *(GPT)*
-- **D3** ✅  #13 Roman to Integer *(GPT)*
 
 [LeetCode 練習紀錄](https://reedlin2002.github.io/leetcode-content.html)   2025/3/5 更新  |
 <br>[Reedlin2002.github.io](https://reedlin2002.github.io/)               2025/3/9 更新  |
