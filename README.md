@@ -1,5 +1,3 @@
-<h2 align="left">Hello 👋, I'm reedlin2002 </h2>
-
 ```C
 #include <stdio.h>
 int main()
