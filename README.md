@@ -9,7 +9,7 @@ int main()
 
 [LeetCode 練習紀錄](https://reedlin2002.github.io/leetcode-content.html)   2025/3/5 更新  |
 <br>[Reedlin2002.github.io](https://reedlin2002.github.io/)               2025/3/11 更新  |
-<br>明日校慶研討會 2025/3/13  |
+ 2025/3/13  |
 
 🛠️ Skills
 ======
