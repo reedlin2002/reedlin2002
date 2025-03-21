@@ -9,6 +9,7 @@ int main()
 
 [LeetCode 練習紀錄](https://reedlin2002.github.io/dailyleetcode.md)   2025/3/20 更新  |
 <br>[Reedlin2002.github.io](https://reedlin2002.github.io/)               2025/3/20 更新  |
+練Node.js 2025/3/21  |
 
 
 🛠️ Skills
