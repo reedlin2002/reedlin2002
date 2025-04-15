@@ -1,12 +1,6 @@
-```C
-#include <stdio.h>
-int main()
-{
-  printf( "Hello World\n" ); 
-}
-```
-
-
+🧣 About me
+======
+i'm a guy interested in game datamining. 
 
 
 🛠️ Skills
