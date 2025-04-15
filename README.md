@@ -1,6 +1,6 @@
 🧣 About me
 ======
-i'm a guy interested in game datamining. 
+i'm a guy interested in purrfect cat. 
 
 
 🛠️ Skills
