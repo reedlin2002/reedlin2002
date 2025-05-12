@@ -41,9 +41,7 @@ i'm a guy interested in purrfect cat.
   </tr>
 </table>
 
-酷獎盃?
-***
-[![trophy](https://github-profile-trophy.vercel.app/?username=reedlin2002)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 每日貢獻表?
 ***
