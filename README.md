@@ -45,4 +45,4 @@ i'm a guy interested in purrfect cat.
 
 〽️ 每日
 ======  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reedlin2002)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reedlin2002&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)  
