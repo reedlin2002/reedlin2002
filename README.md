@@ -41,4 +41,3 @@ i'm a guy interested in purrfect cat.
   </tr>
 </table>
 
-<br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reedlin2002)](https://github.com/reedlin2002/github-readme-stats) 
