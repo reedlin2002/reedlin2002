@@ -1,7 +1,6 @@
 🧣 About me
 ======
-i'm a guy interested in purrfect cat.    
-[我的網頁](<reedlin2002.github.io/>)
+i'm a guy interested in purrfect cat.     [My website](<reedlin2002.github.io/>)
 
 🛠️ Skills
 ======
