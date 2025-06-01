@@ -2,7 +2,7 @@
 ======
 i'm a guy interested in purrfect cat.     [My website](https://reedlin2002.github.io/)
 
-正在學node.js (React、Vue)
+正在學node.js、React.js、Vue.js
 
 🛠️ Skills
 ======
