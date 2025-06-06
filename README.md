@@ -1,6 +1,6 @@
 🧣 About me
 ======
-[My desc](https://reedlin2002.github.io/desc.html) <br> 
+[My Desc](https://reedlin2002.github.io/desc.html) <br> 
 
 [My Blog](https://reedlin2002.github.io/)  (2025/06/05將原先HTML  ⭢ Hexo + Github Pages 正在慢慢搬原 HTML 內之項目)
 
