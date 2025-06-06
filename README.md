@@ -4,7 +4,7 @@ i'm a guy interested in purrfect cat.      [My desc](https://reedlin2002.github.
 
 [My Blog](https://reedlin2002.github.io/)  (2025/06/05將原先HTML  ⭢ Hexo + Github Pages 正在慢慢搬原 HTML 內之項目)
 
-正在學node.js、React.js、Vue.js
+正在學Node.js、React.js、Vue.js
 
 🛠️ Skills
 ======
