@@ -1,7 +1,8 @@
 🧣 About me
 ======
 i'm a guy interested in purrfect cat.      [My desc](https://reedlin2002.github.io/desc.html) <br> 
-[My Blog](https://reedlin2002.github.io/)  (2025/06/05將其改為Hexo+Github Pages 正在慢慢搬運原始網站之項目)
+
+[My Blog](https://reedlin2002.github.io/)  (2025/06/05將原先HTML  ⭢ Hexo + Github Pages 正在慢慢搬原 HTML 內之項目)
 
 正在學node.js、React.js、Vue.js
 
