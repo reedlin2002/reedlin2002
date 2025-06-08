@@ -5,7 +5,7 @@
 [My Blog](https://reedlin2002.github.io/)  (2025/06/05將原先HTML  ⭢ Hexo + Github Pages 正在慢慢搬原 HTML 內之項目)
 
 主要寫 Python，偶爾碰 JavaScript 和 HTML <br> 
-正研究RAG從簡易到進階
+正研究RAG從簡易到進階 <br> 
 正在學Node.js、React.js、Vue.js
 
 🛠️ Skills
