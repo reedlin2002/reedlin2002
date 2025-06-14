@@ -6,7 +6,7 @@
 
 主要寫 Python，偶爾碰 JavaScript 和 HTML
 
-正使用Cursor AI 研究RAG從簡易 (PDF Reader) 到 進階   
+正研究RAG從簡易 (PDF Reader) 到 進階   
 
 正在學Node.js、React.js、Vue.js
 
