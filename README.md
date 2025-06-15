@@ -8,7 +8,7 @@
 
 正研究RAG從簡易 (PDF Reader) 到 進階   詳情可見 **[Blog](https://reedlin2002.github.io/)**
 
-正在學Node.js、React.js、Vue.js
+正在學Node.js、Flask
 
 🛠️ Skills
 ======
