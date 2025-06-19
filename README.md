@@ -2,7 +2,7 @@
 ======
 **[My Desc](https://reedlin2002.github.io/desc.html)**
 
-**[My Blog](https://reedlin2002.github.io/)**  (2025/06/05 將原先HTML ⭢ Hexo + Github Pages 正慢慢搬運原先內容)
+**[My Blog](https://reedlin2002.github.io/)**  (2025/06/19 轉為 Hexo + Github Pages )
 
 主要寫 Python，偶爾碰 JavaScript 和 C#
 
