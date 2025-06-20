@@ -6,7 +6,7 @@
 
 主要寫 Python，偶爾碰 JavaScript 和 C#
 
-正研究RAG從簡易 (PDF Reader) 到 進階 
+正研究 RAG 到 LangChain
 
 
 🛠️ Skills
