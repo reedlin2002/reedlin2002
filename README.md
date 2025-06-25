@@ -6,7 +6,7 @@
 
 主要寫 Python，偶爾碰 JavaScript 和 C#
 
-正研究 RAG 到 LangChain (解決模型依賴和執行錯誤問題，並用Streamlit做了簡易的離線問答介面。)
+正研究 RAG 到 LangChain (解決模型依賴和執行錯誤問題，並用Streamlit做了簡易的離線問答介面)
 
 🛠️ Skills
 ======
