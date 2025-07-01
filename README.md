@@ -8,6 +8,8 @@
 
 正研究 RAG 到 LangChain (解決模型依賴和執行錯誤問題，並用Streamlit做了簡易的離線問答介面)
 
+正研究 純軟工程 PHP OOP 、 TDD/BDD 、 Design Pattern 、 依賴注入 、 網路協議
+
 🛠️ Skills
 ======
 
