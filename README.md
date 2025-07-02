@@ -10,6 +10,14 @@
 
 正研究 純軟工程 PHP OOP 、 TDD/BDD 、 Design Pattern 、 依賴注入 、 網路協議
 
+| 週次    | 學習重點            | 專案                      |
+| ----- | --------------- | ----------------------- |
+| 第1週   | TDD、HTTP協議      | HTTP狀態碼偵測器              |
+| 第2週   | 設計模式            | 設計模式範例集                 |
+| 第3-5週 | C#進階、API、依賴注入   | ASP.NET Core「AI模型管理API」 |
+| 第6週   | PHP OOP、Laravel | Laravel「AI資源平台」         |
+
+
 🛠️ Skills
 ======
 
