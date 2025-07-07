@@ -12,7 +12,7 @@
 
 | 週次    | 學習重點            | 專案                      |
 | ----- | --------------- | ----------------------- |
-| 第1週   | TDD、HTTP協議      | HTTP狀態碼偵測器              | **[BLOG]([https://reedlin2002.github.io/](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/))**
+| 第1週   | TDD、HTTP協議      | HTTP狀態碼偵測器       [Blog](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/)       | 
 | 第2週   | 設計模式            | 設計模式範例集                 |
 | 第3-5週 | C#進階、API、依賴注入   | ASP.NET Core「AI模型管理API」 |
 | 第6週   | PHP OOP、Laravel | Laravel「AI資源平台」         |
