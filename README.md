@@ -9,6 +9,7 @@
 正研究 RAG 到 LangChain (解決模型依賴和執行錯誤問題，並用Streamlit做了簡易的離線問答介面)  **[成果](https://reedlin2002.github.io/2025/06/25/ollama/)**
 
 正研究 純軟工程 PHP OOP 、 TDD/BDD 、 Design Pattern 、 依賴注入 、 網路協議
+
 正研究 多樣態的AI工具使用 (加強使用技巧)
 
 | 週次    | 學習重點            | 專案                      |
