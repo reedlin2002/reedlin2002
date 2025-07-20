@@ -7,11 +7,15 @@
 
 主要寫 Python，偶爾碰 JavaScript 和 C#
 
-正研究 RAG 到 LangChain (解決模型依賴和執行錯誤問題，並用Streamlit做了簡易的離線問答介面)  **[成果](https://reedlin2002.github.io/2025/06/25/ollama/)**
+- **RAG + LangChain 應用實作**  
+  解決本地模型依賴與錯誤處理問題，搭配 Streamlit 建置離線問答介面。  
+  👉 [成果展示](https://reedlin2002.github.io/2025/06/25/ollama/)
 
-正研究 純軟工程 PHP OOP 、 TDD/BDD 、 Design Pattern 、 依賴注入 、 網路協議
+- **純軟工程實作**  
+  深入學習 PHP OOP、TDD / BDD 測試流程、設計模式（Design Patterns）、依賴注入（DI）、網路協議等系統級觀念。
 
-正研究 多類型的AI工具使用技巧 (自動化測試) Selenium、Cypress、Playwright和TestCafe
+- **跨平台自動化測試**  
+  比較與掌握 Selenium、Cypress、Playwright、TestCafe 等自動化測試工具的使用策略與優劣。
 
 | 週次    | 學習重點            | 專案                      |
 | ----- | --------------- | ----------------------- |
