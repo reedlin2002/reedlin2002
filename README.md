@@ -1,15 +1,5 @@
 🧣 About me
 ======
-## 🔍 技術研究進度追蹤表
-
-| 分類                     | 研究項目 / 技術                      | 說明 / 備註                                                                                                 | 相關連結 |
-|--------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
-| 🐍 程式語言               | Python、JavaScript、C#                | 以 Python 為主，JavaScript / C# 偶爾使用                                                                      | [描述頁](https://reedlin2002.github.io/desc.html) |
-| 🔗 RAG & LangChain       | Retrieval-Augmented Generation       | 研究 LangChain 模組錯誤管理、模型依賴解耦，並結合 Streamlit 實作離線問答介面                                  | [成果 Blog](https://reedlin2002.github.io/2025/06/25/ollama/) |
-| 🧱 軟體工程核心           | PHP OOP、TDD/BDD、設計模式、DI        | 強化純軟開發底層能力：熟悉物件導向設計、測試驅動開發、行為驅動開發、依賴注入等                                 | —        |
-| 🌐 網路基礎               | 網路協議                              | 研究 HTTP/1.1、REST、WebSocket 等網路協議，強化後端架構理解                                                   | —        |
-| 🧪 自動化測試工具         | Selenium、Cypress、Playwright、TestCafe | 多種 E2E 測試框架的使用技巧、優缺點分析與實戰應用                                                              | —        |
-| 📓 技術部落格             | Blog & 教學紀錄                        | 紀錄學習成果與專案開發心得                                                                                     | [Blog 首頁](https://reedlin2002.github.io/) |
 
 **[My Desc](https://reedlin2002.github.io/desc.html)**
 
