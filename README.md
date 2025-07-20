@@ -10,7 +10,7 @@
 - **純軟工程實作**  
   深入學習 PHP OOP、TDD / BDD 測試流程、設計模式（Design Patterns）、依賴注入（DI）、網路協議等系統級觀念。
 
-- **跨平台自動化測試**  ( AI 工具 )
+- **跨平台自動化測試 ( AI 工具 )**  
   比較與掌握 Selenium、Cypress、Playwright、TestCafe 等自動化測試工具的使用策略與優劣。
 
 | 週次    | 學習重點            | 專案                      |
