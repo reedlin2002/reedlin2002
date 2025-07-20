@@ -1,10 +1,6 @@
 🧣 About me
 ======
 
-**[My Desc](https://reedlin2002.github.io/desc.html)**
-
-**[My Blog](https://reedlin2002.github.io/)**
-
 主要寫 Python，偶爾碰 JavaScript 和 C#
 
 - **RAG + LangChain 應用實作**  
