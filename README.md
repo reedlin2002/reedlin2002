@@ -9,7 +9,7 @@
 
 - **純軟工程實作**  
   深入學習 PHP OOP、TDD / BDD 測試流程、設計模式（Design Patterns）、依賴注入（DI）、網路協議等系統級觀念。
-
+  👉 [成果展示](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/) 
 - **跨平台自動化測試 ( AI 工具 )**  
   比較與掌握 Selenium、Cypress、Playwright、TestCafe 等自動化測試工具的使用策略與優劣。
 
@@ -17,7 +17,7 @@
 | ----- | --------------- | ----------------------- |
 | 第1週   | TDD、HTTP協議      | HTTP狀態碼偵測器    **[成果](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/)**       | 
 | 第2-6週   | 設計模式            | 設計模式範例集 (Strategy Pattern) **[成果/持續更新中...](https://reedlin2002.github.io/2025/07/12/design-patterns/)**                 |
-| 第3-5週 | C#進階、API、依賴注入   | ~~ASP.NET Core「AI模型管理API」~~  LocalAIAgentAPI (正在玩OCR、ResNet、LLAMA2等模型)|
+| 第3-5週 | C#進階、API、依賴注入   | ~~ASP.NET Core「AI模型管理API」~~  LocalAIAgentAPI (正在玩OCR、ResNet、LLAMA2等模型)[成果](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/) |
 | 第6週   | PHP OOP、Laravel | Laravel「AI資源平台」         |
 
 
