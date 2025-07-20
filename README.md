@@ -8,7 +8,7 @@
   👉 [成果展示](https://reedlin2002.github.io/2025/06/25/ollama/)
 
 - **純軟工程實作**  
-  深入學習 PHP OOP、TDD / BDD 測試流程、設計模式（Design Patterns）、依賴注入（DI）、網路協議等系統級觀念。
+  深入學習 PHP OOP、TDD / BDD 測試流程、設計模式（Design Patterns）、依賴注入（DI）、網路協議等系統級觀念。  
   👉 [成果展示](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/)
   
 - **跨平台自動化測試 ( AI 工具 )**  
