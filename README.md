@@ -1,4 +1,4 @@
-🧣 About me
+~
 ======
 
 主要寫 Python，偶爾碰 JavaScript 和 C#
