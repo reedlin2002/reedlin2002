@@ -2,7 +2,10 @@
 ======
 
 主要寫 Python，偶爾碰 JavaScript 和 C#
-## LEARNING
+
+📚 LEARNING 
+======
+
 - **RAG + LangChain 應用實作**  
   解決本地模型依賴與錯誤處理問題，搭配 Streamlit 建置離線問答介面。  
   👉 [成果展示](https://reedlin2002.github.io/2025/06/25/ollama/)
