@@ -16,7 +16,7 @@
   👉 [成果展示](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/) TDD / BDD 測試流程、依賴注入（DI）、網路協議  
   
 - **自動化測試 ( AI 工具 / CI/CD / Github Actions)**  
-  比較與掌握 Testim、UiPath Test Suite、Selenium、Cypress、Playwright 等自動化測試工具的使用策略與優劣。
+  比較與掌握 Selenium、Playwright 等自動化測試工具的使用策略與優劣。
 
 
 | 週次    | 學習重點            | 專案                      |
