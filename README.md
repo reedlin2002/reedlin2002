@@ -18,6 +18,8 @@
 - **自動化測試 ( AI 工具 / CI/CD / Github Actions)**  
   比較與掌握 Selenium、Playwright 等自動化測試工具的使用策略與優劣。
 
+- **Google Cloud 上的生成式 AI**  
+  透過 Vertex AI Gemini API 建立客製化聊天應用程式。
 
 | 週次    | 學習重點            | 專案                      |
 | ----- | --------------- | ----------------------- |
