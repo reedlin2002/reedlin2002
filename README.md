@@ -1,7 +1,7 @@
 ~
 ======
 
-主要寫 Python，偶爾碰 JavaScript 和 C#
+主要寫 Python，偶爾碰 JavaScript 和 C# ， 比較各類型開源且可本地佈署的大語言模型商業性。
 
 📚 Learning
 ====== 
