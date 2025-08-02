@@ -16,7 +16,7 @@
 | ----- | --------------- | ----------------------- |
 | 第1週   | TDD、HTTP協議      | HTTP狀態碼偵測器    **[成果](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/)**       | 
 | 第2-6週   | 設計模式            | 設計模式範例集 (Design Patterns) **[成果/持續更新中...](https://reedlin2002.github.io/2025/07/12/design-patterns/)**                 |
-| 第3-4週 | C#進階、API、依賴注入   | ~~ASP.NET Core「AI模型管理API」~~  LocalAIAgentAPI (正在玩OCR、ResNet、LLAMA2等模型) [成果](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/) |
+| 第3-4週 | C#進階、API、依賴注入   | ~~ASP.NET Core「AI模型管理API」~~  LocalAIAgentAPI  [成果](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/) |
 | 第6週   | PHP OOP、Laravel | Laravel「AI資源平台」         |
 
 - **RAG + LangChain 應用實作**  
