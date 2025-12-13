@@ -1,4 +1,4 @@
-Software Engineer｜AI-Augmented Development｜Frontend × Workflow
+Software Engineer｜Frontend × Workflow
 
 主要使用 **TypeScript / Python**，專注於  
 **AI 輔助軟體工程流程（SDD / Vibe Coding / BMAD）**、  
