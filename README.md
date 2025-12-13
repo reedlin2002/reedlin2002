@@ -1,44 +1,94 @@
-~
-======
+Software Engineer｜AI-Augmented Development｜Frontend × Workflow
 
-主要寫 Python，偶爾碰 JavaScript 和 C# ， 比較各類型開源且可本地佈署的大語言模型商業性。
+主要使用 **TypeScript / Python**，專注於  
+**AI 輔助軟體工程流程（SDD / Vibe Coding / BMAD）**、  
+前端系統開發與 **Code Quality / Automation Workflow** 設計。  
 
-📚 Learning
-====== 
-  
-- **自動化測試 ( AI 工具 / CI/CD / Github Actions)**  
-  比較與掌握 Selenium、Playwright 等自動化測試工具的使用策略與優劣  
+目前實務重心放在：  
+- AI 參與軟體開發的 **Workflow 設計與落地**
+- 前端工程（React / Vite / GraphQL）
+- 靜態分析、自動化品質檢查、Spec-driven 開發
 
-- **Google Cloud 上的生成式 AI**  
-  學習透過 Vertex AI Gemini API 建立客製化聊天應用程式
+---
 
-  - **應用程式 - 應用互動介面**  
-    使用 React + Vite 製作應用互動介面
+## 🧠 Focus Areas
+- AI-Assisted Software Development (SDD / Vibe Coding)
+- Frontend Engineering (React / TypeScript / Vite)
+- Static Analysis & Code Quality Gate
+- Spec-Driven Development (SPEC.md)
+- AI Agent × Developer Tooling（BMAD）
 
-| 週次    | 學習重點            | 專案                      |
-| ----- | --------------- | ----------------------- |
-| 第1週   | TDD、HTTP協議      | HTTP狀態碼偵測器    **[成果](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/)**       | 
-| 第2-6週   | 設計模式            | 設計模式範例集 (Design Patterns) **[成果/持續更新中...](https://reedlin2002.github.io/2025/07/12/design-patterns/)**                 |
-| 第3-4週 | C#進階、API、依賴注入   | ~~ASP.NET Core「AI模型管理API」~~  LocalAIAgentAPI  [成果](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/) |
-| 第6週   | PHP OOP、Laravel | Laravel「AI資源平台」   (暫緩)      |
+---
 
-- **RAG + LangChain 應用實作**  
-  解決本地模型依賴與錯誤處理問題，搭配 Streamlit 建置離線問答介面  
-  👉 [成果展示](https://reedlin2002.github.io/2025/06/25/ollama/)
+## 📚 Learning & Practice
+### AI × Software Engineering
 
-  - **純軟工程實作**  
-  深入學習 PHP OOP、TDD / BDD 測試流程、設計模式（Design Patterns）、依賴注入（DI）、網路協議等系統級觀念。  
-  👉 [成果展示](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/)  C#進階、API、依賴注入  
-  👉 [成果展示](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/) TDD / BDD 測試流程、依賴注入（DI）、網路協議 
-  
-🛠️ Skills
-======
+- **AI-Assisted Testing & QA Automation**  
+  研究 AI 在測試流程中的實務角色，包含：
+  - Static Analysis Automation
+  - Commit 前 Quality Gate
+  - Playwright / Selenium（研究中）
+  - CI/CD（GitHub Actions）
 
-| 程式語言 | 人工智慧 / 機器學習 | 前端 / 後端 / 資料庫 | 版本控制 |
+- **AI-Driven Development Workflow**  
+  建立可重用的 AI 協作流程：
+  - SPEC.md 作為開發 Contract
+  - AI 產碼 + Human-in-the-loop Review
+  - BMAD Framework × Custom Agent
+
+---
+
+### Frontend / Application
+- **React + Vite + TypeScript**
+- Mock API → GraphQL / BFF 串接
+- Git Flow 協作與規範化開發
+
+---
+
+## 🗂️ Structured Learning Log
+
+| 週期 | 主題 | 專案 / 產出 |
+|----|----|----|
+| Week 1 | TDD、HTTP Protocol | HTTP Status Monitor **[Demo](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/)** |
+| Week 2–6 | Design Patterns | Design Patterns Playground **[Ongoing](https://reedlin2002.github.io/2025/07/12/design-patterns/)** |
+| Week 3–4 | C# Advanced / DI / API | LocalAIAgentAPI **[Demo](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/)** |
+| Week 6 | PHP OOP / Laravel | AI Resource Platform（Paused） |
+
+---
+
+## 🧪 RAG / Local LLM Practice
+- **RAG + LangChain + Ollama**
+- 解決 Local LLM 依賴管理與錯誤處理
+- 使用 Streamlit 建立 Offline QA Interface  
+👉 **[Demo](https://reedlin2002.github.io/2025/06/25/ollama/)**
+
+---
+
+## 🧩 Engineering Practice
+- **Spec-Driven Development**
+- TDD / BDD
+- Dependency Injection
+- Network / HTTP Concepts
+- Workflow-Oriented Design（非單一技術導向）
+
+---
+
+## 🛠️ Skills
+
+| Languages | AI / CV | Frontend / Backend | Version Control |
 | :--: | :--: | :--: | :--: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
 
+---
 
-〽️ 每日記錄
-======  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reedlin2002&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+## 📦 What I Actually Build
+- SPEC.md（開發契約）
+- Git Flow SOP
+- Static Analysis Agent（ESLint / ts-morph / Complexity / npm audit）
+- AI-Augmented Frontend Workflow
+- Reusable AI Development Process
+
+---
+
+## 📈 Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reedlin2002&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
