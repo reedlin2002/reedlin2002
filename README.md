@@ -5,9 +5,8 @@ Software Engineer｜AI-Augmented Development｜Frontend × Workflow
 前端系統開發與 **Code Quality / Automation Workflow** 設計。  
 
 目前實務重心放在：  
-- AI 參與軟體開發的 **Workflow 設計與落地**
+- 參與軟體開發的 **Workflow 設計與落地**
 - 前端工程（React / Vite / GraphQL）
-- 靜態分析、自動化品質檢查、Spec-driven 開發
 
 ---
 
@@ -28,7 +27,7 @@ Software Engineer｜AI-Augmented Development｜Frontend × Workflow
   - Static Analysis Automation
   - Commit 前 Quality Gate
   - Playwright / Selenium（研究中）
-  - CI/CD（GitHub Actions）
+  - CI/CD（GitHub Actions）（研究中）
 
 - **AI-Driven Development Workflow**  
   建立可重用的 AI 協作流程：
@@ -45,7 +44,7 @@ Software Engineer｜AI-Augmented Development｜Frontend × Workflow
 
 ---
 
-## 🗂️ Structured Learning Log
+## 🗂️ Structured Learning Log（Completed）
 
 | 週期 | 主題 | 專案 / 產出 |
 |----|----|----|
