@@ -1,13 +1,5 @@
 Software Engineer｜Frontend × Workflow
 
-主要使用 **TypeScript / Python**，專注於  
-**AI 輔助軟體工程流程（SDD / Vibe Coding / BMAD）**、  
-前端系統開發與 **Code Quality / Automation Workflow** 設計。  
-
-目前實務重心放在：  
-- 參與軟體開發的 **Workflow 設計與落地**
-- 前端工程（React / Vite）
-
 ---
 
 ## 📚 Learning & Practice
@@ -40,15 +32,6 @@ Software Engineer｜Frontend × Workflow
 | Languages | AI / CV | Frontend / Backend | Version Control |
 | :--: | :--: | :--: | :--: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
-
----
-
-## 📦 What I Actually Build
-- SPEC.md（開發契約）
-- Git Flow SOP
-- Static Analysis Agent（ESLint / ts-morph / Complexity / npm audit）
-- AI-Augmented Frontend Workflow
-- Reusable AI Development Process
 
 ---
 
