@@ -1,7 +1,3 @@
-Software Engineer｜Frontend × Workflow
-
----
-
 ## 📚 Learning & Practice
 ### AI × Software Engineering
 
