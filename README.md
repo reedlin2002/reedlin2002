@@ -10,15 +10,6 @@ Software Engineer｜Frontend × Workflow
 
 ---
 
-## 🧠 Focus Areas
-- AI-Assisted Software Development (SDD / Vibe Coding)
-- Frontend Engineering (React / TypeScript / Vite)
-- Static Analysis & Code Quality Gate
-- Spec-Driven Development (SPEC.md)
-- AI Agent × Developer Tooling（BMAD）
-
----
-
 ## 📚 Learning & Practice
 ### AI × Software Engineering
 
@@ -39,8 +30,25 @@ Software Engineer｜Frontend × Workflow
 
 ### Frontend / Application
 - **React + Vite + TypeScript**
-- Mock API → GraphQL / BFF 串接
+- Mock API →  BFF 串接
 - Git Flow 協作與規範化開發
+
+---
+
+## 🛠️ Skills
+
+| Languages | AI / CV | Frontend / Backend | Version Control |
+| :--: | :--: | :--: | :--: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
+
+---
+
+## 📦 What I Actually Build
+- SPEC.md（開發契約）
+- Git Flow SOP
+- Static Analysis Agent（ESLint / ts-morph / Complexity / npm audit）
+- AI-Augmented Frontend Workflow
+- Reusable AI Development Process
 
 ---
 
@@ -60,32 +68,6 @@ Software Engineer｜Frontend × Workflow
 - 解決 Local LLM 依賴管理與錯誤處理
 - 使用 Streamlit 建立 Offline QA Interface  
 👉 **[Demo](https://reedlin2002.github.io/2025/06/25/ollama/)**
-
----
-
-## 🧩 Engineering Practice
-- **Spec-Driven Development**
-- TDD / BDD
-- Dependency Injection
-- Network / HTTP Concepts
-- Workflow-Oriented Design（非單一技術導向）
-
----
-
-## 🛠️ Skills
-
-| Languages | AI / CV | Frontend / Backend | Version Control |
-| :--: | :--: | :--: | :--: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
-
----
-
-## 📦 What I Actually Build
-- SPEC.md（開發契約）
-- Git Flow SOP
-- Static Analysis Agent（ESLint / ts-morph / Complexity / npm audit）
-- AI-Augmented Frontend Workflow
-- Reusable AI Development Process
 
 ---
 
