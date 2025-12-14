@@ -6,7 +6,7 @@ Software Engineer｜Frontend × Workflow
 
 目前實務重心放在：  
 - 參與軟體開發的 **Workflow 設計與落地**
-- 前端工程（React / Vite / GraphQL）
+- 前端工程（React / Vite）
 
 ---
 
