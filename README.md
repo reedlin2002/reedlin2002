@@ -1,25 +1,5 @@
 ## 📚 Learning & Practice
-### AI × Software Engineering
-
-- **AI-Assisted Testing & QA Automation**  
-  研究 AI 在測試流程中的實務角色，包含：
-  - Static Analysis Automation
-  - Commit 前 Quality Gate
-  - Playwright / Selenium（研究中）
-  - CI/CD（GitHub Actions）（研究中）
-
-- **AI-Driven Development Workflow**  
-  建立可重用的 AI 協作流程：
-  - SPEC.md 作為開發 Contract
-  - AI 產碼 + Human-in-the-loop Review
-  - BMAD Framework × Custom Agent
-
----
-
-### Frontend / Application
-- **React + Vite + TypeScript**
-- Mock API →  BFF 串接
-- Git Flow 協作與規範化開發
+- Git Flow
 
 ---
 
