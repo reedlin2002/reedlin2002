@@ -1,5 +1,5 @@
 ## 📚 Learning & Practice
-- Git Flow
+- React
 
 ---
 
