@@ -9,6 +9,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
+
+<div align="center">
   <!-- 新增 Python 與 ML/DL 工具 -->
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
