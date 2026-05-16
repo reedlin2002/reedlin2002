@@ -1,32 +1,28 @@
-## 📚 Learning & Practice
+<p align="center">
+  ## 📚 我常用的語言!
+</p>
+
 - React
 
 ---
 
-## 🛠️ Skills
+<p align="center">
+  ## 🛠️ 我的程式碼分布
+</p>
 
-| Languages | AI / CV | Frontend / Backend | Version Control |
-| :--: | :--: | :--: | :--: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
+### Languages I've worked with
 
----
-
-## 🗂️ Structured Learning Log（Completed）
-
-| 週期 | 主題 | 專案 / 產出 |
-|----|----|----|
-| Week 1 | TDD、HTTP Protocol | HTTP Status Monitor **[Demo](https://reedlin2002.github.io/2025/07/05/UrlHealthMonitor/)** |
-| Week 2–6 | Design Patterns | Design Patterns Playground **[Ongoing](https://reedlin2002.github.io/2025/07/12/design-patterns/)** |
-| Week 3–4 | C# Advanced / DI / API | LocalAIAgentAPI **[Demo](https://reedlin2002.github.io/2025/07/19/LocalAIAgentAPI/)** |
-| Week 6 | PHP OOP / Laravel | AI Resource Platform（Paused） |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reedlin2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🧪 RAG / Local LLM Practice
+<p align="center">
+  ## 🧪 RAG / Local LLM Practice
+</p>
+
 - **RAG + LangChain + Ollama**
 - 解決 Local LLM 依賴管理與錯誤處理
 - 使用 Streamlit 建立 Offline QA Interface  
 👉 **[Demo](https://reedlin2002.github.io/2025/06/25/ollama/)**
 
 ---
-
