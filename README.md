@@ -17,7 +17,7 @@
 ---
 
 <h2 align="center">
-  ## 🧪 RAG / Local LLM Practice
+  🧪 RAG / Local LLM Practice
 </h2>
 
 - **RAG + LangChain + Ollama**
