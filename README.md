@@ -1,5 +1,5 @@
 <h2 align="center">
-   📚 我常用的語言!
+   📚 我常用的語言
 </h2>
 
 - React
@@ -7,7 +7,7 @@
 ---
 
 <h2 align="center">
-   🛠️ 我的程式碼分布
+   🛠️ 我的程式碼
 </h2>
 
 ### Languages I've worked with
