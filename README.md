@@ -30,13 +30,3 @@
 
 ---
 
-<h2 align="center">
-  🧪 RAG / Local LLM Practice
-</h2>
-
-- **RAG + LangChain + Ollama**
-- 解決 Local LLM 依賴管理與錯誤處理
-- 使用 Streamlit 建立 Offline QA Interface  
-👉 **[Demo](https://reedlin2002.github.io/2025/06/25/ollama/)**
-
----
