@@ -1,14 +1,14 @@
-<p align="center">
-  ## 📚 我常用的語言!
-</p>
+<h2 align="center">
+   📚 我常用的語言!
+</h2>
 
 - React
 
 ---
 
-<p align="center">
-  ## 🛠️ 我的程式碼分布
-</p>
+<h2 align="center">
+   🛠️ 我的程式碼分布
+</h2>
 
 ### Languages I've worked with
 
@@ -16,9 +16,9 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
   ## 🧪 RAG / Local LLM Practice
-</p>
+</h2>
 
 - **RAG + LangChain + Ollama**
 - 解決 Local LLM 依賴管理與錯誤處理
