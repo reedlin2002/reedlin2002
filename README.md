@@ -10,7 +10,7 @@
   <strong>Languages I've worked with</strong>
   <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.wenqi.icu/api/top-langs?username=reedlin2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Languages%20I%E2%80%99ve%20worked%20with" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=reedlin2002&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
 </p>
 
