@@ -6,13 +6,13 @@
 
 ---
 
-<h2 align="center">
-   🛠️ 我的程式碼
-</h2>
-
-### Languages I've worked with
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reedlin2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <strong>Languages I've worked with</strong>
+  <br/><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reedlin2002&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  </a>
+</p>
 
 ---
 
