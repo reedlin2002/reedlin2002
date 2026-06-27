@@ -1,10 +1,10 @@
 <p align="left">
-   你好！我是一名軟體設計工程師 也是一名剛從大學畢業的新鮮人，請多指教 
+   你好 請多指教 
 </p>
 
 
 <h2 align="center">
-   📚 我會的
+   📚
 </h2>
 
 <div align="center">
