@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="c# logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
