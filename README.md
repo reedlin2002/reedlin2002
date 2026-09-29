@@ -13,7 +13,7 @@
 
 ## 👋 Hi, I'm Li-Ren
 
-Software Engineer at 程曦資訊 · B.S. in Artificial Intelligence Applications, Ming Chuan University (2025)
+Software Engineer at chainsea information integration co. Ltd · B.S. in Artificial Intelligence Applications, Ming Chuan University (2025)
 
 I did computer vision research in college, then moved into industry building cross-platform apps.
 Now I want to go back to research and answer one question properly: **does a model still work when the environment changes?**
