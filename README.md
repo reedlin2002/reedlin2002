@@ -15,7 +15,7 @@ I like turning fuzzy requirements into things that actually ship.
 
 - **2025.12 – Now** · Software Design Engineer @ ChainSea Information Integration
 - **2025.08** · AI Intern @ ChainSea Information Integration
-- **2025.06** · B.S. in Artificial Intelligence Applications, Ming Chuan University
+- **2025.06** · B.S. in Artificial Intelligence Applications
 
 ## What I Do
 
