@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://reedlin2002.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-reedlin2002.github.io-FF7A00?style=flat-square&labelColor=0D0D0D" /></a>
+  <a href="https://reedlin2002.github.io"><img src="https://img.shields.io/badge/Blog-reedlin2002.github.io-FF7A00?style=flat-square&labelColor=0D0D0D" /></a>
 </p>
 
 ## Hi, I'm Reed 👋
