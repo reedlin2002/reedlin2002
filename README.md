@@ -1,15 +1,10 @@
-<div align="center">
+<h1 align="center">Hi, I'm Reed Lin 👋</h1> <p align="center"> <b>Computer Vision × Cross-platform App Engineer</b><br/> Software Engineer in Taiwan · preparing for an M.S. in Computer Science </p> <p align="center"> <a href="https://reedlin2002.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2C8192?style=flat-square&logo=githubpages&logoColor=white" /></a> <img src="https://img.shields.io/badge/Focus-Instance%20Segmentation-173E64?style=flat-square" /> <img src="https://img.shields.io/badge/Work-React%20%C2%B7%20TypeScript%20%C2%B7%20Capacitor-173E64?style=flat-square" /> </p> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:173E64,100:2C8192&height=170&section=header&text=Li-Ren%20Lin&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%C3%97%20Cross-platform%20App%20Engineer&descSize=16&descAlignY=60" width="100%"/>
+I started in computer vision research during college, then spent the last year shipping cross-platform apps in industry. Now I want to go back to research and answer one question properly: does a model still hold up when the environment changes?
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C8192&center=true&vCenter=true&width=520&lines=Instance+Segmentation+%C3%97+UAV+Imagery;Domain+Shift+%26+Model+Robustness;React+%C2%B7+TypeScript+%C2%B7+Capacitor;From+research+to+real+products" />
+More of my projects are pinned below and in my portfolio.
 
 <br/>
-
-<a href="https://reedlin2002.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-reedlin2002.github.io-173E64?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Based%20in-Taiwan-2C8192?style=for-the-badge"/>
-
-</div>
 
 ## 👋 Hi, I'm Li-Ren
 
