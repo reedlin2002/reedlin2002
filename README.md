@@ -13,34 +13,7 @@
 
 ## 👋 Hi, I'm Li-Ren
 
-Software Engineer at chainsea information integration co. Ltd · B.S. in Artificial Intelligence Applications, Ming Chuan University (2025)
-
-I did computer vision research in college, then moved into industry building cross-platform apps.
-Now I want to go back to research and answer one question properly: **does a model still work when the environment changes?**
-
-- 🔭 **Research interests**: instance segmentation, UAV imagery, domain shift and cross-domain robustness
-- 💼 **At work**: cross-platform apps with React, TypeScript and Capacitor, including Deep Links, FCM push notifications and NFC
-- 🌱 **Exploring**: AI-assisted software engineering (Claude Code, MCP, Skills, spec-driven development)
-- 🎯 **Next**: M.S. in Computer Science, focusing on computer vision
-
----
-
-## 🌊 Research: Automated Beach Litter Monitoring with UAVs
-
-> In partnership with a Penghu marine conservation foundation, we replaced manual beach litter surveys with drone imagery and instance segmentation.
-
-```
-UAV video → frame extraction → image stitching (OpenCV) → CenterMask2 instance segmentation → count / area statistics → CCI / PAI pollution indices
-```
-
-| | |
-|---|---|
-| 🧠 **Model** | CenterMask2 (Detectron2), 5 litter classes |
-| 🗂️ **Data** | 4,709 training / 523 test images, ~70k annotated instances |
-| 🙋 **My role** | Data augmentation for class imbalance, model training and evaluation, environment setup |
-| 🏆 **Recognition** | **Honorable Mention**, 2024 Intelligent Innovation and Interdisciplinary Creation Contest (national)<br>**Excellence Award**, Ming Chuan University Undergraduate Research<br>Funded by the NSTC Undergraduate Research Grant (2024) |
-
-👉 [Repository](https://github.com/reedlin2002/project)
+Software Design Engineer at Chainsea Information Integration co. Ltd · B.S. in Artificial Intelligence Applications, Ming Chuan University (2025)
 
 ---
 
