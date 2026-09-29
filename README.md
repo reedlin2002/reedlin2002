@@ -55,16 +55,6 @@ Built 15 major feature modules, integrated 92 GraphQL operations, and maintain 2
 <br/><img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,docker,git,cpp&theme=light"/>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reedlin2002&layout=compact&hide_border=true&title_color=173E64&text_color=24303A" height="150"/>
-
-<sub>📝 More details in my <a href="https://reedlin2002.github.io/portfolio/">portfolio</a></sub>
-
-</div>
-
-
 <h2 align="center">
 </h2>
 
