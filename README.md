@@ -20,7 +20,7 @@ I like turning fuzzy requirements into things that actually ship.
 ## What I Do
 
 - Clarify business requirements with product, design, backend and QA, and turn them into specs the team can build
-- Deliver features end to end across Android and iOS — 15 feature modules and 92 GraphQL operations so far
+- Deliver features end to end across Android and iOS
 - Handle cross-platform integrations such as deep linking, push notifications and NFC
 
 ## My Project
